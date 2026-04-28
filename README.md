@@ -62,25 +62,25 @@ This project demonstrates hands-on experience with IBM z/OS Job Control Language
 
 ### 🔹 JCL3 Job (IEBGENER Steps)
 
-![JCL3 Code](screenshots/jcl3-code.png)
+![JCL3 Code](jcl3-code.png)
 
 ---
 
 ### 🔹 Final Output Dataset
 
-![JCL3 Output](screenshots/jcl3-output.png)
+![JCL3 Output](jcl3-output.png)
 
 ---
 
 ### 🔹 Job Execution Log
 
-![Job Log](screenshots/job-log-success.png)
+![Job Log](screenshot/job-log-success.png)
 
 ---
 
 ### 🔹 Validation Result (CC=0000)
 
-![Validation](screenshots/validation-cc0000.png)
+![Validation](validation-cc0000.png)
 
 ---
 
