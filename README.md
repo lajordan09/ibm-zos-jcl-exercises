@@ -72,12 +72,6 @@ This project demonstrates hands-on experience with IBM z/OS Job Control Language
 
 ---
 
-### 🔹 Job Execution Log
-
-![Job Log](screenshot/job-log-success.png)
-
----
-
 ### 🔹 Validation Result (CC=0000)
 
 ![Validation](validation-cc0000.png)
