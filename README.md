@@ -1,8 +1,6 @@
 # ibm-zos-jcl-exercises
 Hands-on IBM z/OS JCL exercises covering dataset management, IEBGENER utility, COBOL job execution, and JES job debugging.
 
-# IBM z/OS JCL Exercises
-
 ## 📌 Overview
 
 This project demonstrates hands-on experience with IBM z/OS Job Control Language (JCL), including dataset management, utility execution, COBOL integration, and job debugging using JES logs.
